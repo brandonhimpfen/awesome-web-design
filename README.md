@@ -103,6 +103,7 @@ Web design is the practice of crafting visually engaging, usable, and accessible
 - [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) – Full curriculum on HTML, CSS, and design.
 - [Coursera Web Design Courses](https://www.coursera.org/courses?query=web%20design) – University-led design learning.
 - [Frontend Masters – Web Design for Developers](https://frontendmasters.com/courses/web-design/) – Design fundamentals for devs.
+- [Marketing & SEO Glossary](https://studios-web.com/glossary.html) – 105-term reference covering web design, SEO, and digital marketing concepts.
 
 ## Communities
 
