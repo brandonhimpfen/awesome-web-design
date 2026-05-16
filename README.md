@@ -90,6 +90,7 @@ Web design is the practice of crafting visually engaging, usable, and accessible
 - [Sketch](https://www.sketch.com/) – Vector-based design tool for macOS.
 - [Adobe XD](https://www.adobe.com/products/xd.html) – UI/UX design and prototyping.
 - [Penpot](https://penpot.app/) – Open-source design and prototyping platform.
+- [TinyTools](https://tinytools-smoky.vercel.app/) – Free, browser-based utilities for web designers: favicon generator, OG image generator, color palette generator, and AI background remover. No signup. Open source.
 
 ## Web Design Frameworks
 
